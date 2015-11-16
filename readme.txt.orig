@@ -1,0 +1,7 @@
+foo
+<<<<<<< HEAD
+color:blue
+
+=======
+color: blue
+>>>>>>> blue
