@@ -1,1 +1,2 @@
 foo
+color: blue
